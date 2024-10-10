@@ -6,7 +6,7 @@
 Каждое новое появление коммита в нашем репозитории символизирует не просто обновление кода, а наш рост, развитие и стремление к новым вершинам. Мы на правильном пути и уверенно движемся к нашим целям! </p>
 
 <h2> Немного о нас </h2>
-<h3> Иван, devlifeee, developer </h3>
+<h3> Иван 15, devlifeee, developer </h3>
 <img src="https://github.com/devlifeee/Our-team/blob/main/ivan.jpg" alt="фото участника команды" width="300"/>
 <h4> Tech stack </h4>
 
@@ -19,7 +19,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<h3> Артём, Pr1vate4 Tim-Lead </h3>
+<h3> Артём 15, Pr1vate4 Tim-Lead </h3>
 <img src="https://github.com/devlifeee/Our-team/blob/main/artem.jpg?raw=true" alt="фото участника команды" width="300"/>
 <h4> Tech stack </h4>
 
@@ -30,7 +30,7 @@
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-<h3> Всеволод, developer </h3>
+<h3> Всеволод 16, developer </h3>
 <img src="https://github.com/devlifeee/Our-team/blob/main/seva.jpg?raw=true" alt="фото участника команды" width="300"/>
 <h4> Tech stack </h4>
 
