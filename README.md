@@ -46,4 +46,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-1 xakaton. Создание платформера на Python(Pygame) за 48 часов.
+<h2>Our achievements 💪</h2>
+<h3> 1 Хакатон 29.04.2024. Создание платформера на Python(Pygame) за 48 часов. </h3>
+<img src="https://github.com/devlifeee/Our-team/blob/main/photo_2024-04-28_22-45-31.jpg?raw=true" alt="фото результата" width="300"?/>
+<h3> Из 160 команд </h3>
